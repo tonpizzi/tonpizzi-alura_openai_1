@@ -1,0 +1,7 @@
+Baseado nas informações fornecidas, minha recomendação seria:
+
+Recomendação: Acionar setor Anti-Fraude e Notificar Cliente
+
+Justificativa: Diante do indicativo de "Possível Fraude" e do valor pouco comum para transações cotidianas, a ação prudente seria envolver o setor anti-fraude para uma investigação mais aprofundada e, simultaneamente, notificar o cliente sobre essa atividade suspeita no seu cartão de crédito para confirmação.
+
+Tipo de Fraude: Considerando o tipo de produto sendo adquirido (Artigo Esportivo) e o valor elevado da transação, é possível que estejamos diante de uma fraude de "Compras não autorizadas". No entanto, só poderemos confirmar com uma investigação mais detalhada.
